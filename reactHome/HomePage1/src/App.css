@@ -1,0 +1,57 @@
+h1 {
+  font-family:Roboto, system-ui,PingFang SC,STHeiti,sans-serif;
+  color:#627E98
+}
+p{
+  font: Roboto, system-ui,PingFang SC,STHeiti,sans-serif, bold;
+}
+.text {
+  padding-top: 80px;
+}
+.image-two{
+  height: 500px;
+  width: 500px;
+  border-radius: 50%;
+  float: left;
+}
+.para {
+  padding-top : 20px;
+  padding-bottom: 20px;
+}
+.image-one{
+  height: 400px;
+  width: 400px;
+  float:right;
+}
+hr {
+  background: #DBDBDB;
+  border: 0;
+  height: 3px;
+}
+#dropdown-button{
+  width:90%;
+  display: block;
+  background-color: white;
+  color : #919191;
+}
+.whole {
+  margin-bottom: 250px;
+
+}
+#nav-brand {
+  margin-left: 50px;
+}
+#nav-center {
+  margin: auto;
+  padding-top: 2em;
+}
+.dropdown-menu{
+  width: 90%;
+}
+
+#active-link {
+  color: white;
+  background-color: #72bd76;
+  border-color: white;
+  border-radius: 20px;
+}
