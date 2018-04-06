@@ -1,0 +1,17 @@
+.HeaderContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.HeaderBackground{
+    background-color: #0f3970;
+}
+
+.HeaderCopyColor{
+    font-size: 12pt;
+    color: #FFFFFF;
+    width: auto;
+    padding: 15px;
+    border-left: 1px solid white;
+}

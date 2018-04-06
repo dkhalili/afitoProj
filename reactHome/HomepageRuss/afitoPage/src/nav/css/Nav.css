@@ -1,0 +1,29 @@
+.NavContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+
+}
+
+.NavBackground{
+    background-color: #f9f9f9;
+}
+
+.logo-container{
+    width:auto;
+    flex-grow: 1;
+    padding-left: 10px;
+}
+
+.NavCopyColor{
+    margin-top: 10px;
+    font-size: 14pt;
+    color: #6c6c6c;
+    width: auto;
+    padding: 15px;
+    align-items: center;
+}
+
+.NavCopyColor a{
+    color: #6c6c6c;
+}
