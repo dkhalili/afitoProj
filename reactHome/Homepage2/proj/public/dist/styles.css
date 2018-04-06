@@ -1,0 +1,128 @@
+#carouselExampleControls{
+    height: 620px;
+}
+.carousel-title{
+    text-align: center;
+    padding: 2rem;
+}
+
+.carousel-item{
+    height: 40%;
+}
+.carousel-img {
+    width: 45% !important;
+    top:3rem;
+    height: auto;
+    margin: 3%;
+    float:left;
+}
+.carousel-content{
+    display: inline-block;
+    top:3rem;
+    width: 40%;
+    height: 20rem;
+    overflow-wrap: wrap;
+    margin: 3%;
+}
+
+.carousel-row{
+    border-bottom: 0.1rem solid gray;
+    border-top: 0.1rem solid gray;
+    width: 100%;
+    margin: 2rem auto;
+
+}
+.carousel-icon{
+    width:3rem;
+    height: 2.5rem;
+    margin: 1rem auto;;
+}
+
+.carousel-control{
+    vertical-align: middle;
+}
+.carousel-detail{
+    margin: 30rem 0 0 0;
+}
+.carousel-extend{
+    display: inline-block;
+    font: bold;
+    text-decoration:none;
+    color: rgb(71, 71, 71);
+}
+.logo{
+    width: 15%;
+    height: auto;
+}
+.header{
+    border-bottom: 1px solid grey;
+}
+.nav-item{
+    margin: 1rem 0;
+}.footer{
+    display: block;
+    padding:20px;
+}.logo{
+    width: 15%;
+    height: auto;
+}
+
+.content-house{
+    width: 100%;
+    height: 100%;
+}
+
+.welcome{
+    margin: 4rem 0;
+}
+.content-welcome-img{
+    width: 100%;
+    align-self: auto;
+}
+
+.left, .right{
+    padding-left: 3.5rem;
+    padding-top: 2rem;
+}
+.left-img{
+    width: 100%;
+    padding: 0;
+}
+
+
+.right-img{
+    width: 100%;
+    padding: 0;
+}
+
+content, h6{
+    padding: 1rem 0;
+}
+.content-tenants-img{
+    width: 100%;
+    height: 100%;
+    
+}
+.content-renters-img{
+    width: 100%;
+    height: 100%;
+}
+.content-detail{
+    display: block;
+    padding-top: 5rem;
+    font-weight: bold;
+}
+.card-img{
+    width: 100%;
+}
+
+.btn-start{
+    width: 10rem;
+    height: 3rem;
+    font-size: 1.5rem;
+}
+.form-control{
+    
+    
+}
+/*# sourceMappingURL=styles.css.map*/
