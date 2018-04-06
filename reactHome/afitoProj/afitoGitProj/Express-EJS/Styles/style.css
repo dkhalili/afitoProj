@@ -1,0 +1,106 @@
+
+
+
+
+
+
+
+.nav {
+    margin-right: 10% !important;
+    float: right !important;
+}
+.nav-header {
+    background-color:#0D417B;
+}
+.nav-header a{
+    padding: 10px 10px !important;
+}
+.nav-header li{
+    padding-left:10px;
+    padding-right: 10px;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+
+}
+.nav-header p {
+    font-size:16px;
+    margin:0;
+    color: white;
+}
+
+
+
+.home-logo {
+    float:left;
+    margin-left:10%;
+}
+
+.nav-menus li{
+    padding-left:50px;
+}
+.nav-menus h3 {
+    font-size:18px;
+}
+
+
+
+
+
+
+
+.home-block {
+    padding:70px 0;
+}
+
+.home-content {
+    padding: 30px 50px;
+
+}
+
+.home-content h1 {
+    font-size:42px;
+    color:#0D417B;
+    font-weight: bold;
+    padding-bottom:15px;
+}
+
+
+.home-content p {
+    font-size:24px;
+    margin: 30px 0;
+}
+
+
+.college-search {
+    height:50px;
+    width: 80%;
+}
+
+.home-content span {
+    font-size:22px;
+    padding: 10px 0;
+    font-weight: bold;
+}
+
+
+.home-image1 {
+/*    background-image: url("https://oneclassblog.com/wp-content/uploads/2018/02/Kiev-Apt-MARTIN-architects-1.jpg"); 
+*/}
+
+.home-image2 img{
+    border-radius: 50%;
+
+}
+
+
+
+
+
+
+
+.page-footer {
+   margin-top: 100px;
+   background-color: #69BC73;
+   color: white;
+   padding: 25px 0 !important;
+}
