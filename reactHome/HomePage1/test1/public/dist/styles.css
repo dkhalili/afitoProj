@@ -1,0 +1,51 @@
+.carousel-title{
+    text-align: center;
+    padding: 2rem;
+}
+
+.carousel-item{
+    height: 40%;
+}
+.carousel-img {
+    width: 45% !important;
+    top:3rem;
+    height: auto;
+    margin: 3%;
+    float:left;
+}
+.carousel-content{
+    display: inline-block;
+    top:3rem;
+    width: 40%;
+    height: 20rem;
+    overflow-wrap: wrap;
+    margin: 3%;
+}
+
+.row{
+    border-bottom: 0.1rem solid gray;
+    border-top: 0.1rem solid gray;
+    width: 100%;
+    margin: 2rem auto;
+
+}
+.carousel-icon{
+    width:3rem;
+    height: 2.5rem;
+    margin: 1rem auto;;
+}
+
+.carousel-control{
+    vertical-align: middle;
+}
+.carousel-detail{
+    margin: 30rem 0 0 0;
+}
+.carousel-extend{
+    display: inline-block;
+    font: bold;
+    text-decoration:none;
+    color: rgb(71, 71, 71);
+}
+
+/*# sourceMappingURL=styles.css.map*/

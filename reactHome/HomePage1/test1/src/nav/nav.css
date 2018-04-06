@@ -1,0 +1,10 @@
+.logo{
+    width: 15%;
+    height: auto;
+}
+.header{
+    border-bottom: 1px solid grey;
+}
+.nav-item{
+    margin: 1rem 0;
+}
